@@ -1,0 +1,511 @@
+.logo-1-1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 245px;
+  height: 135px;
+  object-fit: cover;
+}
+.navbar-child {
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 39px;
+  left: 922px;
+  width: 311px;
+  height: 57px;
+}
+.navbar-item {
+  position: absolute;
+  top: 29px;
+  left: 1285px;
+  border-radius: 50%;
+  width: 78px;
+  height: 78px;
+  object-fit: cover;
+}
+.navbar {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  background-color: #0e538c;
+  width: 1440px;
+  height: 135px;
+}
+.completed,
+.home,
+.in-progress {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 155px;
+  left: 68px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.completed,
+.in-progress {
+  left: 204px;
+}
+.completed {
+  left: 403px;
+}
+.image-1-icon,
+.teacher-profile-child {
+  position: absolute;
+  top: 220px;
+  height: 449px;
+}
+.image-1-icon {
+  left: 823px;
+  width: 640px;
+  object-fit: cover;
+}
+.teacher-profile-child {
+  left: 0;
+  width: 998px;
+}
+.computer-networks,
+.instructors,
+.topics {
+  position: absolute;
+  left: 106px;
+  font-family: var(--font-montserrat);
+}
+.computer-networks {
+  top: 323px;
+  font-size: 64px;
+  font-weight: 500;
+  color: #272727;
+}
+.instructors,
+.topics {
+  top: 425px;
+  color: var(--color-gray-100);
+}
+.instructors {
+  left: 579px;
+  text-align: right;
+}
+.teacher-profile-item {
+  position: absolute;
+  top: 756px;
+  left: 67px;
+  border-radius: 50%;
+  width: 257px;
+  height: 257px;
+  object-fit: cover;
+}
+.garry-lawrence {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 791px;
+  left: 352px;
+  font-size: 57px;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.assistant-professor-at {
+  position: absolute;
+  top: 881px;
+  left: 352px;
+  font-size: 33px;
+  color: var(--color-gray-200);
+}
+.email-garrylawrencegmailco {
+  text-decoration: none;
+  position: absolute;
+  top: 939px;
+  left: 354px;
+  color: var(--color-gray-200);
+}
+.ellipse-div,
+.teacher-profile-inner {
+  position: absolute;
+  top: 1133px;
+  left: 76px;
+  border-radius: 50%;
+  background-color: var(--color-gray-300);
+  width: 10px;
+  height: 10px;
+}
+.ellipse-div {
+  top: 1171px;
+}
+.qualification-and-experience {
+  position: absolute;
+  top: 25px;
+  left: 19px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.years-of-teaching {
+  position: absolute;
+  top: 81px;
+  left: 64px;
+}
+.currently-working-as,
+.guest-lecturer-at {
+  position: absolute;
+  top: 119px;
+  left: 64px;
+}
+.guest-lecturer-at {
+  top: 159px;
+  display: inline-block;
+  width: 1158px;
+}
+.group-child {
+  position: absolute;
+  top: 173px;
+  left: 28px;
+  border-radius: 50%;
+  background-color: var(--color-gray-300);
+  width: 10px;
+  height: 10px;
+}
+.completed-phd-in {
+  position: absolute;
+  top: 0;
+  left: 36px;
+  display: inline-block;
+  width: 1132px;
+}
+.group-item {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gray-300);
+  width: 10px;
+  height: 10px;
+}
+.completed-phd-in-computer-netw-parent {
+  position: absolute;
+  top: 202px;
+  left: 28px;
+  width: 1168px;
+  height: 36px;
+}
+.rectangle-div,
+.research-papers-published-till-parent {
+  position: absolute;
+  top: 245px;
+  left: 28px;
+  width: 1168px;
+  height: 36px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  width: 1344px;
+  height: 312px;
+}
+.qualification-and-experience-parent {
+  position: absolute;
+  top: 1038px;
+  left: 48px;
+  width: 1344px;
+  height: 312px;
+  font-size: var(--subhead-medium-24-size);
+}
+.tutorcompass-highlights {
+  position: absolute;
+  top: 25px;
+  left: calc(50% - 193.5px);
+  font-weight: 500;
+  display: inline-block;
+  width: 388px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  border: 2px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
+  width: 1297px;
+  height: 282px;
+}
+.vector-icon {
+  position: absolute;
+  height: 54.54%;
+  width: 8.14%;
+  top: 7.38%;
+  right: 90.14%;
+  bottom: 38.07%;
+  left: 1.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.stars {
+  position: absolute;
+  top: 104px;
+  left: 0;
+}
+.hours,
+.students,
+.vector-icon1 {
+  position: absolute;
+  top: 104px;
+  left: 832px;
+}
+.hours,
+.vector-icon1 {
+  left: 423px;
+}
+.vector-icon1 {
+  height: 57.01%;
+  width: 8.38%;
+  top: 7.38%;
+  right: 49.25%;
+  bottom: 35.61%;
+  left: 42.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.graduation-cap-icon {
+  position: absolute;
+  top: 0;
+  left: 877px;
+  width: 105px;
+  height: 105px;
+  overflow: hidden;
+}
+.vector-parent {
+  position: absolute;
+  top: 108px;
+  left: calc(50% - 523.5px);
+  width: 1048px;
+  height: 149px;
+}
+.tutorcompass-highlights-parent {
+  position: absolute;
+  top: 1410px;
+  left: calc(50% - 653px);
+  width: 1297px;
+  height: 282px;
+  font-size: var(--font-size-11xl);
+}
+.student-reviews {
+  position: absolute;
+  top: 1779px;
+  left: 66px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.nayan-singh {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.course-computer,
+.excellent-teaching-all {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  font-size: var(--font-size-4xl);
+}
+.excellent-teaching-all {
+  top: 64px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1297px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 76.14%;
+  width: 37.11%;
+  top: 0;
+  right: 62.89%;
+  bottom: 23.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.vector-group {
+  position: absolute;
+  top: 0;
+  left: 32px;
+}
+.vector-group {
+  height: 21.92%;
+  width: 4.86%;
+  top: 2.74%;
+  right: 81.73%;
+  bottom: 75.34%;
+  left: 13.42%;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+}
+.nayan-singh-parent {
+  position: absolute;
+  top: 1859px;
+  left: 67px;
+  width: 1297px;
+  height: 146px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-400);
+}
+.vector-icon3 {
+  position: absolute;
+  height: 76.14%;
+  width: 37.11%;
+  top: 6.25%;
+  right: 62.89%;
+  bottom: 17.61%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nayan-singh-container,
+.nayan-singh-group {
+  position: absolute;
+  top: 2046px;
+  left: 67px;
+  width: 1297px;
+  height: 146px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-400);
+}
+.nayan-singh-container {
+  top: 2234px;
+}
+.see-46-more {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2424px;
+  left: 66px;
+  font-size: 31px;
+  font-family: var(--font-poppins);
+  color: #025395;
+  text-align: left;
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 10080px;
+  height: 3px;
+  overflow: hidden;
+}
+.about-us,
+.tutorcompass-inc-all {
+  position: absolute;
+  top: 56.52%;
+  left: 1.06%;
+  line-height: 150%;
+  font-weight: 300;
+}
+.about-us {
+  top: 0;
+  left: 0;
+  font-size: var(--subhead-medium-24-size);
+  font-weight: 500;
+  font-family: var(--subhead-medium-24);
+  color: var(--color-black);
+  text-align: left;
+}
+.about-us-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 97px;
+  height: 36px;
+}
+.terms-of-service-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 182px;
+  height: 36px;
+}
+.group-wrapper,
+.privacy-policy {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+}
+.group-wrapper {
+  width: 182px;
+  height: 36px;
+}
+.privacy-policy {
+  font-size: var(--subhead-medium-24-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subhead-medium-24);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.group-parent {
+  position: absolute;
+  top: 33px;
+  left: 733px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 49px;
+}
+.frame-parent {
+  position: absolute;
+  top: 2638px;
+  left: -59px;
+  width: 10080px;
+  height: 69px;
+  font-size: var(--font-size-xl);
+  font-family: var(--subhead-medium-24);
+}
+.vector-icon5 {
+  position: absolute;
+  height: 1.32%;
+  width: 1.41%;
+  top: 24.67%;
+  right: 95.39%;
+  bottom: 74.01%;
+  left: 3.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.teacher-profile {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2813px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
